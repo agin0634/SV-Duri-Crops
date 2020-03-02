@@ -1,0 +1,43 @@
+{
+    "Name": "Fig",
+    "Description": "A sweet, soft, purple fruit with many seeds.",
+    "Category": "Fruit",
+    "Edibility": 15,
+    "Price": 30,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Maru", "Robin", "Demetrius", "Haley"],
+        "Like": ["Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+        "Neutral": ["Abigail", "Jas", "Vincent"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "无花果",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "一种甜、柔软、紫色的水果，带有许多种子。",
+    }
+}
