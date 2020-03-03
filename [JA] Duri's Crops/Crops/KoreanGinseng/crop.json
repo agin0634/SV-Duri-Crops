@@ -1,11 +1,11 @@
 {
-    "Name": "Fig",
-    "Product": "Fig",
-    "SeedName": "Fig Seeds",
-    "SeedDescription": "Plant these in summer or fall. Takes 17 days to mature, and keeps producing after the first harvest.",
-    "Type": "Fruit",
+    "Name": "Korean Ginseng",
+    "Product": "Korean Ginseng",
+    "SeedName": "Korean Ginseng Seeds",
+    "SeedDescription": "Plant these in fall. Takes 25 days to mature, and keeps producing after the first harvest.",
+    "Type": "Vegetable",
 
-    "Seasons": ["summer", "fall"],
+    "Seasons": ["fall"],
     "Phases": [1, 3, 5, 4, 4, ],
     "RegrowthPhase": 3,
     "HarvestWithScythe": false,
@@ -31,7 +31,7 @@
         //"pt": "",
         //"ru": "",
         // "tr": "",
-        "zh": "无花果种子",
+        "zh": "高丽参种子",
     },
     "SeedDescriptionLocalization":
     {
