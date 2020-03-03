@@ -2,7 +2,7 @@
     "Name": "Dragon Fruit",
     "Description": "Dragon fruits are high in antioxidants and vitamins.",
     "Category": "Fruit",
-    "Edibility": 15,
+    "Edibility": 50,
     "Price": 105,
     "IsColored": false,
     "GiftTastes":
