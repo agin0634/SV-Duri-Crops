@@ -1,0 +1,61 @@
+{
+  "Name": "Korean Ginseng Soup",
+  "Description": "Korean traditional soup for body health.",
+  "Category": "Cooking",
+  "Edibility": 200,
+  "EdibleIsDrink": true,
+  "Price": 680,
+  "IsColored": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": 248,
+        "Count": 1,
+      },
+      {
+        "Object": 399,
+        "Count": 1,
+      },
+      {
+        "Object": "Korean Ginseng",
+        "Count": 1,
+      }
+    ],
+    "CanPurchase": true,
+    "PurchaseFrom": "Pierre",
+    "PurchasePrice": 2000,
+  },
+ "GiftTastes":
+    {
+        "Like": ["Gus", "Krobus", "Leah", "Lewis", "Robin","Wizard", "George", "Evelyn", "Harvey","Linus", "Marnie", "Pam"],
+    },
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "高丽人参汤",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "韩国传统补品。",
+    }
+}
