@@ -1,0 +1,50 @@
+{
+    "Name": "Bamboo Shoot",
+    "Product": "Bamboo Shoot",
+    "SeedName": "Bamboo Shoot Seeds",
+    "SeedDescription": "Plant these in spring. Takes 8 days to mature, and keeps producing after the first harvest.",
+    "Type": "Fruit",
+
+    "Seasons": ["spring"],
+    "Phases": [1, 1, 1, 2, 3, ],
+    "RegrowthPhase": 2,
+    "HarvestWithScythe": true,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": 
+    {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.1,
+    },
+    "SeedPurchasePrice": 70,
+    "SeedNameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        // "tr": "",
+        "zh": "竹笋种子",
+    },
+    "SeedDescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "春天播种。8天成熟，在第一次收获后循环生产。",
+    }
+}

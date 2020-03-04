@@ -1,0 +1,44 @@
+{
+    "Name": "Dragon Fruit",
+    "Description": "Dragon fruits are high in antioxidants and vitamins.",
+    "Category": "Fruit",
+    "Edibility": 50,
+    "Price": 105,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Love": ["Krobus", "Sebastian", "Shane"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy", "Willy", "Wizard"],
+        "Dislike": ["Abigail", "Haley", "Jas", "Jodi", "Sam", "Vincent"],
+        "Hate": ["Evelyn", "Pierre"],
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "火龙果",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "火龙果富含抗氧化剂和维生素。",
+    }
+}
