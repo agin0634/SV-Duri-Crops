@@ -1,16 +1,15 @@
 {
-    "Name": "Dragon Fruit",
-    "Description": "Dragon fruits are high in antioxidants and vitamins.",
-    "Category": "Fruit",
-    "Edibility": 50,
-    "Price": 105,
+    "Name": "Bamboo Shoot",
+    "Description": "Fast-growing vegetables.",
+    "Category": "Vegetable",
+    "Edibility": 40,
+    "Price": 30,
     "IsColored": false,
     "GiftTastes":
     {
-        "Love": ["Krobus", "Sebastian", "Shane"],
-        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "George", "Gus", "Harvey", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy", "Willy", "Wizard"],
-        "Dislike": ["Abigail", "Haley", "Jas", "Jodi", "Sam", "Vincent"],
-        "Hate": ["Evelyn", "Pierre"],
+        "Love": ["Abigail"],
+        "Like": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Robin", "Sandy", "Willy", "Wizard"],
+        "Dislike": ["Haley", "Jas", "Vincent"],
     },
     "Recipe": null,
     "NameLocalization":
@@ -25,7 +24,7 @@
         //"pt": "",
         //"ru": "",
          // "tr": "",
-        "zh": "火龙果",
+        "zh": "竹笋",
     },
     "DescriptionLocalization":
     {
@@ -39,6 +38,6 @@
         //"pt": "",
         //"ru": "",
          // "tr": "",
-        "zh": "火龙果富含抗氧化剂和维生素。",
+        "zh": "成长很快的蔬菜。",
     }
 }

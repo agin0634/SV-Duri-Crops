@@ -3,7 +3,7 @@
     "Product": "Bamboo Shoot",
     "SeedName": "Bamboo Shoot Seeds",
     "SeedDescription": "Plant these in spring. Takes 8 days to mature, and keeps producing after the first harvest.",
-    "Type": "Fruit",
+    "Type": "Vegetable",
 
     "Seasons": ["spring"],
     "Phases": [1, 1, 1, 2, 3, ],
@@ -13,8 +13,8 @@
     "Colors": null,
     "Bonus": 
     {
-        "MinimumPerHarvest": 1,
-        "MaximumPerHarvest": 2,
+        "MinimumPerHarvest": 2,
+        "MaximumPerHarvest": 3,
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.1,
     },
