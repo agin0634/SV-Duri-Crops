@@ -2,12 +2,12 @@
     "Name": "Mangosteen",
     "Product": "Mangosteen",
     "SeedName": "Mangosteen Seeds",
-    "SeedDescription": "Plant these in summer. Takes 11 days to mature, and keeps producing after the first harvest.",
+    "SeedDescription": "Plant these in summer. Takes 13 days to mature, and keeps producing after the first harvest.",
     "Type": "Fruit",
 
     "Seasons": ["summer"],
-    "Phases": [1, 2, 2, 3, 3, ],
-    "RegrowthPhase": 4,
+    "Phases": [1, 2, 3, 4, 5, ],
+    "RegrowthPhase": 3,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
     "Colors": null,
@@ -18,7 +18,7 @@
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.1,
     },
-    "SeedPurchasePrice": 120,
+    "SeedPurchasePrice": 90,
     "SeedNameLocalization":
     {
         //"es": "",
@@ -31,7 +31,7 @@
         //"pt": "",
         //"ru": "",
         // "tr": "",
-        "zh": "火龙果种子",
+        "zh": "山竹种子",
     },
     "SeedDescriptionLocalization":
     {
@@ -45,6 +45,6 @@
         //"pt": "",
         //"ru": "",
          // "tr": "",
-        "zh": "夏天播种。11天成熟，在第一次收获后循环生产。",
+        "zh": "夏天播种。15天成熟，在第一次收获后循环生产。",
     }
 }
