@@ -1,0 +1,17 @@
+{
+	"Name": "[PFM] Duri's Crops",
+	"Author": "Duri",
+	"Version": "1.0.0",
+	"Description": "Adds producing rules for my mod.",
+	"UniqueID": "duri.cropsPFM",
+	"MinimumApiVersion": "3.2.0",
+	"UpdateKeys": [],
+	"Dependencies": [
+		{
+			"UniqueID": "duri.cropsJA"
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	}
+}
