@@ -1,4 +1,27 @@
-﻿/*[
+﻿[
+	{
+	   "ProducerName": "Preserves Jar",
+	   "InputIdentifier": "Fig",
+	   "InputStack": 1,
+	   "MinutesUntilReady": 4000,
+	   "OutputIdentifier": "Fig Jam",
+	   "Sounds": ["Ship"],
+	},
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*[
 	{ // All lines that have a default value can be removed and that value will be used.
 		"ProducerName": "ProducerName", //Name of the producer. Required.
 		"InputIdentifier": "fruit_tree_item", //The identifier of the input. Can be the Index of the object, the category of the object if it's a negative value. Can be the name of the object, or a context_tag of the object. Can be null only if there is a NoInputStartMode for the producer. Default is null.
@@ -68,13 +91,4 @@
  * Note that not all stats are correctly counted by the game.
  */
 
- [
-	 {
-		"ProducerName": "Keg",
-        "InputIdentifier": "Korean Ginseng",
-        "InputStack": 1,
-        "MinutesUntilReady": 10,
-        "OutputIdentifier": "Korean Ginseng Soup",
-        "Sounds": ["Ship"],
-	 },
- ]
+ 

@@ -1,0 +1,44 @@
+{
+  "Name": "Fig Jam",
+  "Description": "Gooey.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "EdibleIsDrink": true,
+  "Price": 230,
+  "IsColored": false,
+  "Recipe": null,
+ "GiftTastes":
+ {
+    "Love": ["Maru", "Robin", "Demetrius", "Haley"],
+    "Like": ["Alex", "Caroline", "Clint", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Harvey", "Jodi", "Kent", "Krobus", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Sam", "Sandy", "Sebastian", "Shane", "Willy", "Wizard"],
+    "Neutral": ["Abigail", "Jas", "Vincent"],
+  },
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "无花果 果酱",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "黏糊糊的。",
+    }
+}
