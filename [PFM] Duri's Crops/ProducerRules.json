@@ -5,8 +5,16 @@
 	   "InputStack": 1,
 	   "MinutesUntilReady": 4000,
 	   "OutputIdentifier": "Fig Jam",
-	   "Sounds": ["Ship"],
+	   "Sounds": ["Ship"]
 	},
+	{
+		"ProducerName": "Keg",
+		"InputIdentifier": "Korean Ginseng",
+		"InputStack": 1,
+		"MinutesUntilReady": 10000,
+		"OutputIdentifier": "Korean Ginseng Wine",
+		"Sounds": ["Ship"]
+	 },
 ]
 
 

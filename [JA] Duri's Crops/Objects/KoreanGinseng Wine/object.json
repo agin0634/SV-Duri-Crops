@@ -1,0 +1,56 @@
+{
+  "Name": "Korean Ginseng Wine",
+  "Description": "Drink in moderation.",
+  "Category": "ArtisanGoods",
+  "Edibility": 100,
+  "EdibleBuffs":
+    {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": -2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 180,
+    },
+  "EdibleIsDrink": true,
+  "Price": 6000,
+  "IsColored": false,
+  "Recipe": null,
+ "GiftTastes":
+ {
+  "Like": ["Gus", "Krobus", "Leah", "Lewis", "Robin","Wizard", "George", "Evelyn", "Harvey","Linus", "Marnie", "Pam"],
+  },
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "高丽人参酒",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "适量饮酒。",
+    }
+}
