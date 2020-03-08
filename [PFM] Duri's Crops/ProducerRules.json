@@ -15,6 +15,14 @@
 		"OutputIdentifier": "Korean Ginseng Wine",
 		"Sounds": ["Ship"]
 	 },
+	 {
+		"ProducerName": "Keg",
+		"InputIdentifier": "Sorghum",
+		"InputStack": 1,
+		"MinutesUntilReady": 10000,
+		"OutputIdentifier": "Sorghum Liquor",
+		"Sounds": ["Ship"]
+	 },
 ]
 
 

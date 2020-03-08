@@ -1,0 +1,41 @@
+{
+    "Name": "Sorghum",
+    "Description": "Used to flavor liquor.",
+    "Category": "Vegetable",
+    "Edibility": -300,
+    "Price": 20,
+    "IsColored": false,
+    "GiftTastes":
+    {
+        "Like": ["Lewis"]
+    },
+    "Recipe": null,
+    "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        // "fr": "",
+        // "hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "高粱",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+         // "fr": "",
+         // "hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        "zh": "用于酿酒。",
+    }
+}

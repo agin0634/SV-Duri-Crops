@@ -1,8 +1,8 @@
 {
-  "Name": "Korean Ginseng Wine",
+  "Name": "Sorghum Liquor",
   "Description": "Drink in moderation.",
   "Category": "ArtisanGoods",
-  "Edibility": 100,
+  "Edibility": 50,
   "EdibleBuffs":
     {
         "Farming": 0,
@@ -18,12 +18,13 @@
         "Duration": 180,
     },
   "EdibleIsDrink": true,
-  "Price": 6000,
+  "Price": 770,
   "IsColored": false,
   "Recipe": null,
  "GiftTastes":
  {
-  "Like": ["Gus", "Krobus", "Leah", "Lewis", "Robin","Wizard", "George", "Evelyn", "Harvey","Linus", "Marnie", "Pam"],
+  "Love": ["Pam","Shane","Clint","Demetrius"],
+  "Like": ["Abigail", "Krobus", "Leah", "Lewis", "Robin","Wizard", "George", "Evelyn","Linus", "Marnie"],
   "Hate": ["Jas","Penny","Sebastian","Vincent"]
   },
     "NameLocalization":
@@ -38,7 +39,7 @@
         //"pt": "",
         //"ru": "",
          // "tr": "",
-        "zh": "高丽人参酒",
+        "zh": "高粱酒",
     },
     "DescriptionLocalization":
     {
