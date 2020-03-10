@@ -3,7 +3,7 @@
     "Description": "Fast-growing vegetables.",
     "Category": "Vegetable",
     "Edibility": 40,
-    "Price": 30,
+    "Price": 20,
     "IsColored": false,
     "GiftTastes":
     {

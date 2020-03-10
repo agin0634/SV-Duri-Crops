@@ -13,8 +13,8 @@
     "Colors": null,
     "Bonus": 
     {
-        "MinimumPerHarvest": 2,
-        "MaximumPerHarvest": 3,
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 2,
         "MaxIncreasePerFarmLevel": 5,
         "ExtraChance": 0.1,
     },
